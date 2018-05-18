@@ -2,7 +2,6 @@
 
 this is the 1st file in this repo
 
-##Blood Moon
-Blood moon
+##Website Contents
 
-Azure
+1. index.html
